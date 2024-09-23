@@ -1,5 +1,5 @@
 name = input("Enter name: ")
-print("(H)ellow\n(G)oodbye\n(Q)uit")
+print("(H)ellow\n(G)oodbye\n(Q)uit" )
 choice = input(">>>").upper()
 while choice != "Q":
     if choice == "H":
