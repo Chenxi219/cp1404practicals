@@ -15,3 +15,4 @@ def determine_password(password):
         print("Password must more than five")
         password = input("Enter a password: ")
     return password
+main()
