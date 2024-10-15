@@ -1,3 +1,9 @@
+"""
+Word Occurrences
+Estimate: 20 minutes
+Actual:   15 minutes
+"""
+
 word_to_count = {}
 text = input("Text: ")
 words = text.split()
